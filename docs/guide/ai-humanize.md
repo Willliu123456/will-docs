@@ -42,6 +42,6 @@ AI 生成的文字通常有几个特征：
 
 ## 相关阅读
 
-- [AIGC 检测原理科普](ai-detection-principle.md)
-- [快速开始](quick-start.md)
+- [AIGC 检测原理科普](ai-detection-principle.html)
+- [快速开始](quick-start.html)
 - [官网](https://willbe.wang/)
