@@ -13,7 +13,7 @@ will 是一个面向中文用户的 AI 助手平台，一个账号畅用 20+ 主
 
 ## 指南目录
 
-- [快速开始](guide/quick-start.md) — 3 分钟上手 will
-- [论文降 AI 味完全指南](guide/ai-humanize.md) — 怎么用一键降 AI 工具
-- [AIGC 检测原理科普](guide/ai-detection-principle.md) — 检测是怎么工作的
-- [多模型平台怎么用](guide/multi-model.md) — 一个账号切换 20+ 模型
+- [快速开始](guide/quick-start.html) — 3 分钟上手 will
+- [论文降 AI 味完全指南](guide/ai-humanize.html) — 怎么用一键降 AI 工具
+- [AIGC 检测原理科普](guide/ai-detection-principle.html) — 检测是怎么工作的
+- [多模型平台怎么用](guide/multi-model.html) — 一个账号切换 20+ 模型
