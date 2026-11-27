@@ -47,6 +47,6 @@ AIGC 检测工具声称能判断一段文字是不是 AI 写的。它们到底�
 
 ## 相关阅读
 
-- [论文降 AI 味完全指南](ai-humanize.md)
-- [快速开始](quick-start.md)
+- [论文降 AI 味完全指南](ai-humanize.html)
+- [快速开始](quick-start.html)
 - [官网](https://willbe.wang/)
