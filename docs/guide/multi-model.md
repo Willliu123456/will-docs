@@ -33,6 +33,6 @@ description: DeepSeek、Kimi、GPT、Claude、Gemini 各有特点，一个账号
 
 ## 相关阅读
 
-- [快速开始](quick-start.md)
-- [论文降 AI 味完全指南](ai-humanize.md)
+- [快速开始](quick-start.html)
+- [论文降 AI 味完全指南](ai-humanize.html)
 - [官网](https://willbe.wang/)
