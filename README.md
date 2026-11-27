@@ -25,10 +25,10 @@ will 是一个面向中文用户的 AI 助手平台。一个账号即可切换�
 
 ## 文档
 
-- [快速开始](guide/quick-start.md)
-- [论文降 AI 味完全指南](guide/ai-humanize.md)
-- [AIGC 检测原理科普](guide/ai-detection-principle.md)
-- [多模型平台怎么用](guide/multi-model.md)
+- [快速开始](docs/guide/quick-start.html)
+- [论文降 AI 味完全指南](docs/guide/ai-humanize.html)
+- [AIGC 检测原理科普](docs/guide/ai-detection-principle.html)
+- [多模型平台怎么用](docs/guide/multi-model.html)
 
 ## 链接
 
