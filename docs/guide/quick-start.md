@@ -30,6 +30,6 @@ will 支持免注册免费试用，也可以注册账号解锁完整功能。
 
 ## 下一步
 
-- [论文降 AI 味完全指南](ai-humanize.md)
-- [AIGC 检测原理科普](ai-detection-principle.md)
-- [多模型平台怎么用](multi-model.md)
+- [论文降 AI 味完全指南](ai-humanize.html)
+- [AIGC 检测原理科普](ai-detection-principle.html)
+- [多模型平台怎么用](multi-model.html)
